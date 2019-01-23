@@ -1,16 +1,16 @@
 # Site settings
 title: OPEN-BOOK-STACK
-description: A Collection all Resources across all Domains
+description: A Collection all Resources across all Domains by various Contributors.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://openbookstack.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Open-Book-Stack
 user_description: Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
+email: sathuribharath@gmail.com
+twitter_username: bharathsathuri
 github_username:  OpenBookStack
-gplus_username:  lorem_ipsum
+gplus_username:  bharathsathuri
 disqus_username: openbookstack
 
 # Build settings
