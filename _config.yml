@@ -6,12 +6,12 @@ url: "https://openbookstack.github.io/" # the base hostname & protocol for your 
 
 # User settings
 username: Open-Book-Stack
-user_description: Anon Developer at Lorem Ipsum Dolor
+user_description: Developer
 email: anon@anon.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  OpenBookStack
 gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+disqus_username: openbookstack
 
 # Build settings
 markdown: kramdown
