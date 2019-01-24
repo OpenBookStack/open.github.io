@@ -5,13 +5,14 @@ layout: default
     
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
    
-    <div class="content" style="height:100%;position:fixed;width:100%;" role="banner">
+    <div class="content" role="banner">
      <h1 class="post-title">{{ site.title }}</h1>
      <p class="subtitle">
          {{ site.description }}
      </p>
     <div>
-        
+        <br>
+        <hr>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
